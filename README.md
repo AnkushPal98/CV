@@ -6,7 +6,7 @@ git init
 
 STEP 2. Add Remote Repository:
 
-git remote add origin <remote-repo-url>
+git remote add origin REMOTE_REPO-URL
 
 STEP 3. Verify Remote URL:
 
@@ -16,4 +16,4 @@ STEP 4. Push Local Changes to Remote:
 
 git push -u origin main
 
-NOTE: Make sure to replace <remote-repo-url> with your actual repository URL and push the correct branch (e.g., main or master).
+NOTE: Make sure to replace REMOTE_REPO-URL with your actual repository URL and push the correct branch (e.g., main or master).
